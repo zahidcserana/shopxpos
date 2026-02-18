@@ -2,20 +2,20 @@ const testimonials = [
   {
     quote:
       "ShopXPOS helped us reduce stock mismatch and speed up checkout during peak hours.",
-    name: "Nabil Ahmed",
-    role: "Operations Manager, Fresh Mart",
+    name: "Md. Ab. Lotif Mia",
+    role: "LOTIF ELECTRONICS",
   },
   {
     quote:
       "The reporting is clear and practical. We now review branch performance daily with confidence.",
-    name: "Shanta Roy",
-    role: "Director, Urban Fashion Point",
+    name: "MD SHAFIQUL ISLAM",
+    role: "POPULAR ENTERPRICE",
   },
   {
     quote:
       "Onboarding was smooth and the support team was responsive from day one.",
-    name: "Mahmud Hasan",
-    role: "Owner, Medico Pharmacy",
+    name: "Md Rasel Hossen",
+    role: "RIT COMPUTER",
   },
 ];
 

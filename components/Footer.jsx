@@ -8,7 +8,7 @@ export default function Footer() {
         </div>
 
         <div className="text-sm text-slate-400">
-          © {new Date().getFullYear()} ShopXPOS. All rights reserved.
+          © {new Date().getFullYear()} <a href="https://shopxpos.com/" target="_blank">ShopXPOS</a>. All rights reserved.
         </div>
       </div>
     </footer>
