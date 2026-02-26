@@ -1,4 +1,4 @@
-This is a [ShopX POS](https://shopxpos.com) 
+This is [ShopX POS](https://shopxpos.com) 
 ## Getting Started
 
 First, run the development server:
